@@ -12,7 +12,7 @@
 
 [[U6 - Movilidad Sostenible]]
 
-[U7 - Planificación Urb. y Territorial]]
+[[U7 - Planificación Urb. y Territorial]]
 
 [[U8 - Renaturalización de Ciudades]]
 

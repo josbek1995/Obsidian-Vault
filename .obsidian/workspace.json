@@ -11,8 +11,12 @@
             "id": "86c0a583b5f355d7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 ENTIDADES/11 Sector Público/S0018-Dirección de Innovación y Desarrollo Tecnológico.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "0478c4b87d4aaf12",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 ENTIDADES/11 Sector Público/S0018-Dirección de Innovación y Desarrollo Tecnológico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 ENTIDADES/11 Sector Público/S0018-Dirección de Innovación y Desarrollo Tecnológico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 ENTIDADES/11 Sector Público/S0018-Dirección de Innovación y Desarrollo Tecnológico.md"
+              }
             }
           }
         ]
@@ -133,15 +141,15 @@
   },
   "active": "86c0a583b5f355d7",
   "lastOpenFiles": [
-    "2 PROYECTOS/P00001-Sumaq Wasi.md",
-    "0 LABORATORIO/01 CONSTRUCCION/01 CONSTRUCCIÓN.md",
+    "0 LABORATORIO/04 VIVIENDA/V8 - Capacitaciones en Vivienda.md",
     "0 LABORATORIO/04 VIVIENDA/04 VIVIENDA.md",
-    "2 PROYECTOS/2 PROYECTOS.md",
-    "0 LABORATORIO/0 LABORATORIO VIVIENDA.md",
-    "0 LABORATORIO/03 URBANISMO/03 URBANISMO.md",
+    "0 LABORATORIO/04 VIVIENDA/V1 - Vivienda Social.md",
+    "0 LABORATORIO/04 VIVIENDA/V2 - VIvienda Rural.md",
     "0 LABORATORIO/02 SANEAMIENTO/02 SANEAMIENTO.md",
-    "1 ENTIDADES/11 Sector Público/S0014-Programa Mejoramiento Integral de Barrios.md",
-    "1 ENTIDADES/1 ENTIDADES.md",
-    "1 ENTIDADES/11 Sector Público/E0016-CONCYTEC.md"
+    "0 LABORATORIO/02 SANEAMIENTO/S1 - Saneamiento Urbano.md",
+    "0 LABORATORIO/03 URBANISMO/03 URBANISMO.md",
+    "0 LABORATORIO/01 CONSTRUCCION/01 CONSTRUCCIÓN.md",
+    "0 LABORATORIO/01 CONSTRUCCION/C4 - Tecnología en Edificaciones.md",
+    "0 LABORATORIO/01 CONSTRUCCION/C1 - Sistemas Constructivos Innovadores.md"
   ]
 }
