@@ -1,4 +1,4 @@
-#urbanismo
+¿Cómo funciona nuestra ciudad desde su núcleo mas interno? ¿Cómo venimos tratando las distintas urbes emergentes y la gestión de territorio? Aquí encontraremos los proyectos, innovaciones e investigaciones vinculadas a la interacción en urbes peruanas.
 
 [[U1 - Urbanismo Táctico]]
 
@@ -17,3 +17,5 @@
 [[U8 - Renaturalización de Ciudades]]
 
 [[U9 - Espacios Lúdicos]]
+
+#urbanismo

@@ -10,12 +10,12 @@ LANDING_DESCRIPTION = "Dirección de Innovación y Desarrollo Tecnológico"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "2-proyectos/p00001-sumaq-wasi/"
 # (Optional) Site title on landing page
-LANDING_TITLE = "RED DE PROYECTOS Y ENTIDADES"
+LANDING_TITLE = "RED DE INNOVACIÓN"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/josbek1995/Obsidian-Vault"
 # (Optional) Site title in navbar
-SITE_TITLE = "Someone's Second 🧠"
+SITE_TITLE = "RED INNOVACIÓN - DIDT"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL

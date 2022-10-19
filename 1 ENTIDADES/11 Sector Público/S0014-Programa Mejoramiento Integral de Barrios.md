@@ -1,0 +1,5 @@
+## ¿Qué hacemos?
+
+El [PMIB](https://www.gob.pe/institucion/programa-mejoramiento-integral-de-barrios/colecciones/305-conoce-los-servicios-del-pmib) es un Programa del Ministerio de Vivienda Construcción y Saneamiento, bajo el ámbito del Viceministerio de Vivienda y Urbanismo y tiene como objetivo mejorar el espacio público de Barrios Urbanos con población **prioritariamente vulnerable**, a través de _i**ntervenciones integrales**_, busca cerrar la brecha del servicio de movilidad urbana y de espacio público en barrios urbanos a nivel nacional. Asimismo, promueve la actuación coordinada y concurrente entre: El MVCS, los Gobiernos Locales y la comunidad barrial.
+
+La intervención integral está comprendida por uno o más código unificado de intervención (CUI), ubicados en un mismo ámbito, que cierra brechas del servicio de movilidad urbana y de espacio público. El monto de la Intervención Integral no debe superar los S/10,000,000.00.
