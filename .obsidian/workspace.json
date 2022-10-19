@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "7288336780f39e32",
+    "type": "split",
+    "children": [
+      {
+        "id": "46880bc1ef0e087f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86c0a583b5f355d7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97647c454823674f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb163b4172af4bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae63138eda86c6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1920607e40bfcec3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b8d60365be98f5a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0478c4b87d4aaf12",
+    "type": "split",
+    "children": [
+      {
+        "id": "655393b1a8d5cc11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30cb8902d18e1885",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f5fd071ddf8ea1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "198c5c6f2947038f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52fdd38384aea078",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "86c0a583b5f355d7",
+  "lastOpenFiles": [
+    "2 PROYECTOS/P00001-Sumaq Wasi.md",
+    "0 LABORATORIO/01 CONSTRUCCION/01 CONSTRUCCIÓN.md",
+    "0 LABORATORIO/04 VIVIENDA/04 VIVIENDA.md",
+    "2 PROYECTOS/2 PROYECTOS.md",
+    "0 LABORATORIO/0 LABORATORIO VIVIENDA.md",
+    "0 LABORATORIO/03 URBANISMO/03 URBANISMO.md",
+    "0 LABORATORIO/02 SANEAMIENTO/02 SANEAMIENTO.md",
+    "1 ENTIDADES/11 Sector Público/S0014-Programa Mejoramiento Integral de Barrios.md",
+    "1 ENTIDADES/1 ENTIDADES.md",
+    "1 ENTIDADES/11 Sector Público/E0016-CONCYTEC.md"
+  ]
+}

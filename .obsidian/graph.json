@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#principal",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#construccion",
+      "color": {
+        "a": 1,
+        "rgb": 11613227
+      }
+    },
+    {
+      "query": "tag:#saneamiento",
+      "color": {
+        "a": 1,
+        "rgb": 4044982
+      }
+    },
+    {
+      "query": "tag:#vivienda",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
+    },
+    {
+      "query": "tag:#urbanismo",
+      "color": {
+        "a": 1,
+        "rgb": 3252783
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.28416666666667,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.366666666666667,
+  "repelStrength": 12.5,
+  "linkStrength": 1,
+  "linkDistance": 322,
+  "scale": 0.1846232622585813,
+  "close": true
+}
